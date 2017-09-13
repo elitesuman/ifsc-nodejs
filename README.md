@@ -27,5 +27,4 @@ ifsc.getDetails(IFSC, function(error, data){ //In place of IFSC type your IFSC c
 ## License
 
 The code in this repository is licensed under the MIT License. License
-text is available in the `LICENSE.txt` file. The dataset itself
-should be under public domain.
+text is available in the `LICENSE.txt` file.
